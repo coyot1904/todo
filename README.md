@@ -32,7 +32,5 @@ npm start
 ```
 
 ## Contact
-Dmitry Sviridov  
-Telegram: [slamach](https://t.me/slamach)  
-Email: sviridov.dvv@gmail.com
-# todo
+Keyvan Mozaffari  
+Email: coyot1904@gmail.com
